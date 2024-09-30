@@ -7,8 +7,8 @@ const styles = StyleSheet.create({
   },
   containerBuscar: {
     width: "100%",
-    height: "auto",
-    maxHeight: 253,
+    height: 255,
+    maxHeight: 255,
     backgroundColor: "white",
     borderColor: "#9e9e9e",
     borderBottomWidth: 1,
@@ -120,7 +120,8 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     width: "90%",
     height: "auto",
-    maxHeight: 300,
+    flexGrow: 1,
+    marginBottom: 40,
     marginTop: 0,
   },
   btnReceitas: {
