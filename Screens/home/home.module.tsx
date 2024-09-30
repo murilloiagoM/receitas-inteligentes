@@ -8,14 +8,14 @@ const styles = StyleSheet.create({
   containerBuscar: {
     width: "100%",
     height: "auto",
-    maxHeight: 320,
+    maxHeight: 253,
     backgroundColor: "white",
     borderColor: "#9e9e9e",
     borderBottomWidth: 1,
     borderTopWidth: 1,
     marginTop: 0,
     alignItems: "center",
-    paddingBottom: 10
+    paddingBottom: 5
   },
   containerButtons: {
     marginTop: 0,
