@@ -4,6 +4,10 @@ Receitas inteligentes - Teste Murillo Moreira
 
 Utilização
 
+Instalar o app receitas-inteligentes pelo arquivo .apk no diretório /apk/receitas-inteligentes.apk
+
+ou
+
 Clonar o Repositório, Instalar dependências com: npm install, iniciar o servidor de Desenvolvimento com: npx expo start.
 
 Para construir o Aplicativo (produção): eas build --platform android --profile development para criar uma versão do aplicativo que pode ser instalada em dispositivos Android.

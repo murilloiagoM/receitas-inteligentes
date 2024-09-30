@@ -13,12 +13,12 @@ const styles = StyleSheet.create({
     borderColor: "#9e9e9e",
     borderBottomWidth: 1,
     borderTopWidth: 1,
-    marginTop: 5,
+    marginTop: 0,
     alignItems: "center",
     paddingBottom: 10
   },
   containerButtons: {
-    marginTop: 15,
+    marginTop: 0,
     width: "100%",
     height: 50,
     flex: 1,
@@ -117,10 +117,11 @@ const styles = StyleSheet.create({
   viewReceitas: {
     borderColor: "black",
     borderWidth: 1,
+    borderTopWidth: 0,
     width: "90%",
     height: "auto",
     maxHeight: 300,
-    marginTop: 10,
+    marginTop: 0,
   },
   btnReceitas: {
     borderTopColor: "black",
@@ -152,7 +153,7 @@ export const stylemodal = StyleSheet.create({
     borderWidth: 1,
   },
   dropdown: {
-    marginTop: 10,
+    marginTop: 0,
     height: 50,
     backgroundColor: "white",
     padding: 12,
